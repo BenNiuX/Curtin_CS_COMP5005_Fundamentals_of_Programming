@@ -1,0 +1,34 @@
+[1m 
+Welcome to the temperature converter [0m
+[1] Convert from Fahrenheit to Celsius. Argument:
+    fahr - the temperature in Fahrenheit 
+[2] Convert from Kelvin to Celsius. Argument:
+    kelv - the temperature in Kelvin 
+[3] Convert from Celsius to Fahrenheit. Argument:
+    cel - the temperature in Celsius 
+[4] Convert from Kelvin to Fahrenheit. Argument:
+    kelv - the temperature in Kelvin 
+[5] Convert from Celsius to Kelvin. Argument:
+    cel - the temperature in Celsius 
+[6] Convert from Fahrenheit to Kelvin. Argument:
+    fahr - the temperature in Fahrenheit 
+Which convert would you like? Input all temperatures: fahr2cel Fahr=212.0 Cel=100.0
+fahr2cel Fahr=98.6 Cel=37.0
+fahr2cel Fahr=68.0 Cel=20.0
+fahr2cel Fahr=32.0 Cel=0.0
+fahr2cel Fahr=-459.0 Cel=-272.77777777777777
+Press "q" to exit, other key to continue... [1m 
+Welcome to the temperature converter [0m
+[1] Convert from Fahrenheit to Celsius. Argument:
+    fahr - the temperature in Fahrenheit 
+[2] Convert from Kelvin to Celsius. Argument:
+    kelv - the temperature in Kelvin 
+[3] Convert from Celsius to Fahrenheit. Argument:
+    cel - the temperature in Celsius 
+[4] Convert from Kelvin to Fahrenheit. Argument:
+    kelv - the temperature in Kelvin 
+[5] Convert from Celsius to Kelvin. Argument:
+    cel - the temperature in Celsius 
+[6] Convert from Fahrenheit to Kelvin. Argument:
+    fahr - the temperature in Fahrenheit 
+Which convert would you like? Input all temperatures: Bye

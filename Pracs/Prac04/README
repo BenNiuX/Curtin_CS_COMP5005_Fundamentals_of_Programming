@@ -1,0 +1,20 @@
+## Synopsis
+Practical 4 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 4
+competition_v1.py - overall structure
+competition_v2.py - validating inputs
+competition_v3.py - adding submodules
+conversions.py - module with functions to convert between units
+converter.py - convert degrees between Fahrenheit, Celsius and Kelvin
+converter2.py - convert degrees between Fahrenheit, Celsius and Kelvin
+prettyface.py - pretty face convert using ndimage
+testConversions.py - test the functions in conversions.py
+zeros.py - creating and resizing an array
+
+## Dependencies
+none
+
+## Version information
+30/03/2024 - initial version of Practical 4 programs

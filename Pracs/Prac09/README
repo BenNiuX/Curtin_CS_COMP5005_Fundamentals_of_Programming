@@ -1,0 +1,24 @@
+## Synopsis
+Practical 9 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 9
+dice.ipynb - Testing out jupyter notebook with Rolling Dice task
+pandasurvey.ipynb - Testing out jupyter notebook with Pandas task
+pg2591.txt - Grimms\' Fairy Tales text file
+pops.py - Populations using dictionaries
+roll.png - Plot picture from Rolling Dice
+rumple.txt - Rumpelstiltskin part in Grimms\' Fairy Tales
+sets.ipynb - Testing out jupyter notebook with Set task
+surveys.csv - Download file from the Data Carpentry tutorial
+tuple.ipynb - Testing out jupyter notebook with Tuple task
+words_in_text.py - Count words in a text file
+
+## Dependencies
+sys
+matplotlib
+numpy
+pandas
+
+## Version information
+26/05/2024 - initial version of Practical 9 programs

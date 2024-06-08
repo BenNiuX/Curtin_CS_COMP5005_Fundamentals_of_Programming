@@ -1,0 +1,27 @@
+## Synopsis
+Practical 8 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 8
+myprogs.txt - Activity 1 output: the result of: grep .py ../Prac*/README*
+repeatdosageP.py - Orignal file download from BlackBoard
+dosagebase.py - Process command line arguments
+dosage_sweep.sh - Support parameter sweep for dosagebase.py
+dosage2024-05-25_23:34:14/ - Output of "sh dosage_sweep.sh 4 12 4 50 300 50"
+IDCJDW6111.202404.csv - Using wget to download weather data
+data.csv - Using grep to filter available weather data
+data4.csv - Using awk to filter 4 columns data
+plotcmd.txt - Using by gnuplot to plot a figure
+weather_workflow.sh - Weather workflow shell script
+plot_2024_03/ - Result for cmd "sh weather_workflow.sh 2024 03"
+plot_2024_04/ - Result for cmd "sh weather_workflow.sh 2024 04"
+
+
+## Dependencies
+sys
+math
+matplotlib
+numpy
+
+## Version information
+26/05/2024 - initial version of Practical 8 programs

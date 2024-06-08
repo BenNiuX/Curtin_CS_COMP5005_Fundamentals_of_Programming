@@ -1,0 +1,17 @@
+## Synopsis
+Practical 5 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 5
+heat.py - heat diffusion simulation
+heatfun.py - heat diffusion simulation using function
+heatsource.py - heat diffusion simulation using file as input
+list_comp.py - using both loops and list comprehensions
+marchweather2.py - print min, max temps and 9am, 3pm temps
+weather.py - print min and max temps from a file
+
+## Dependencies
+none
+
+## Version information
+31/03/2024 - initial version of Practical 5 programs

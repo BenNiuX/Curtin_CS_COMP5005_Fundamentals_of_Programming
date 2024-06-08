@@ -1,0 +1,73 @@
+../Prac00/README:hello.py - Print out greetings in various languages
+../Prac01/README:num_convert.py - Read in number and convert to int and float
+../Prac01/README:num_for.py - Read in ten numbers and give sum of numbers
+../Prac01/README:num_while.py - Read in a list of numbers (negative to exit) and
+../Prac01/README:And/Now/for/Something/Completely/Different/growth.py - simulation of
+../Prac01/README:Monty/Pythons/which.py - asks questions to find your Python
+../Prac01/README:Monty/Pythons/Flying/Circus/bruces.py - let's call everyone "Bruce",
+../Prac01/README:The/Holy/Grail/bridge.py - a scene from The Holy Grail
+../Prac01/README:The/Holy/Grail/bridge2.py - a scene from The Holy Grail, re-coded
+../Prac02/README:num_convert.py - Read in number and convert to int and float
+../Prac02/README:assorted.py - selecting random biscuits from a pack
+../Prac02/README:bucket1.py - use a python list for items in a bucket list
+../Prac02/README:bucket2.py - bucket list builder
+../Prac02/README:cointoos.py - simulate tossing a coin multiple times
+../Prac02/README:darts.py - calculating Pi using the Method of Darts
+../Prac02/README:fun.py - Potential fun application
+../Prac02/README:machine.py - Vending machine program
+../Prac02/README:strings1.py - Read in a string and print it in reverse
+../Prac02/README:strings2.py - Read in a string and print it in forward
+../Prac03/README:dosage4hr_1.py - modified for Prac03 Activity 7 part 1
+../Prac03/README:dosage4hr_2.py - modified for Prac03 Activity 7 part 2
+../Prac03/README:dosage4hr_3.py - modified for Prac03 Activity 7 part 3
+../Prac03/README:dosage4hr.py - (original)simulates the amount of aspirin in the system
+../Prac03/README:dosage.py - (original)simulates the amount of aspirin in the system
+../Prac03/README:growtharray.py - simulation of unconstrained growth using array
+../Prac03/README:growthplot.py - simulation of unconstrained growth using list
+../Prac03/README:growthsubplot.py - simulation of unconstrained growth to draw subplot
+../Prac03/README:numbersarray.py - read ten numbers give sum, min, max & mean using array
+../Prac03/README:numbersbar.py - read ten numbers give sum, min, max & mean and show on bar chart
+../Prac03/README:rainbows.py - Draw a rainbow using pyplot
+../Prac03/README:repeatdosage.py - original repeatdosage.py
+../Prac03/README:skipdosage.py - original skipdosage.py
+../Prac04/README:competition_v1.py - overall structure
+../Prac04/README:competition_v2.py - validating inputs
+../Prac04/README:competition_v3.py - adding submodules
+../Prac04/README:conversions.py - module with functions to convert between units
+../Prac04/README:converter.py - convert degrees between Fahrenheit, Celsius and Kelvin
+../Prac04/README:converter2.py - convert degrees between Fahrenheit, Celsius and Kelvin
+../Prac04/README:prettyface.py - pretty face convert using ndimage
+../Prac04/README:testConversions.py - test the functions in conversions.py
+../Prac04/README:zeros.py - creating and resizing an array
+../Prac05/README:heat.py - heat diffusion simulation
+../Prac05/README:heatfun.py - heat diffusion simulation using function
+../Prac05/README:heatsource.py - heat diffusion simulation using file as input
+../Prac05/README:list_comp.py - using both loops and list comprehensions
+../Prac05/README:marchweather2.py - print min, max temps and 9am, 3pm temps
+../Prac05/README:weather.py - print min and max temps from a file
+../Prac06/README:animals.py - define Animal class and Cat/Dog/Bird classes
+../Prac06/README:testAnimals.py - testing animals including Cat/Dog/Bird
+../Prac06/README:testCat.py - testing Cat
+../Prac06/README:accounts.py - define BankAccount class
+../Prac06/README:banking.py - simulating bank account transactions
+../Prac06/README:banking2.py - simulating bank account transactions using function
+../Prac06/README:testAccounts.py - testing bank accounts
+../Prac07/README:animals.py - define Animal class and Cat/Dog/Bird/Shelter classes
+../Prac07/README:shelters.py - testing animals and shelter
+../Prac07/README:people.py - define People class and Address/Staff/Student/Postgrad/Undergrad
+../Prac07/README:testPeople.py - testing People and other related classes
+../Prac07/README:testPeopleCsv.py - testing People and other classes reading from CSV file and
+../PracTest1/README:The/Holy/Grail/PracTest1.py - Practical Test 1 program
+../PracTest2/README:pup.py - assess and plot comparison of different types of dogs
+../PracTest2/README:Task_0.png - Picture for Task 0: fix pup.py to draw a line plot
+../PracTest3/README:creatures.py - class definitions for the creatures
+../PracTest3/README:task1.py - program for task 1 in PracTest3
+../PracTest3/README:testCat.py - program for task 2 in PracTest3
+../PracTest3/README:task3.py - program for task 3 in PracTest3
+../PracTest3/README:task4.py - program for task 4 in PracTest3
+../PracTest3/README:numpy
+../PracTest4/README:accounts.py - class for bank account portfolio
+../PracTest4/README:testAccounts.py - program to test functions of accounts.py
+../PracTest5/README:test5.py - simulate spread of disease through a population 
+../PracTest5/README:r=0.00218_a=0.5.png - verified result for test5.py
+../PracTest5/README:numpy

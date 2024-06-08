@@ -1,0 +1,13 @@
+## Synopsis
+Practical Test 4 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical Test 4
+accounts.py - class for bank account portfolio
+testAccounts.py - program to test functions of accounts.py
+
+## Dependencies
+none
+
+## Version information
+30/04/2024 - initial version of Practical Test 4 programs

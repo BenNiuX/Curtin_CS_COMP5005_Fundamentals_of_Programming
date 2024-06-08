@@ -1,0 +1,69 @@
+    1  ls
+    2  cd Desktop/
+    3  mkdir FOP
+    4  cd FOP
+    5  ls
+    6  pwd
+    7  mkdir PracTest1
+    8  cd PracTest1
+    9  mkdir The
+   10  cd The
+   11  mkdir Holy
+   12  mkdir Holy/Grail
+   13  cd ../
+   14  mkdir The/Meaning
+   15  mkdir The/Meaning/Of
+   16  mkdir The/Meaning/Of/Life
+   17  mkdir Monty
+   18  mkdir Monty/Pythons
+   19  mkdir Monty/Pythons/Flying
+   20  mkdir Monty/Pythons/Flying/Circus
+   21  ls -lR
+   22  cd The/Meaning/Of/Life
+   23  pwd
+   24  vim witches.txt
+   25  ls
+   26  vim mints.txt
+   27  cd ../../../
+   28  cd Holy/Grail
+   29  vim witches.txt
+   30  cd ../../../
+   31  cd Monty/Pythons/Flying/Circus
+   32  vim spam.txt
+   33  cd .././../../../
+   34  cd The/Holy/Grail
+   35  ls
+   36  vim PracTest1.py
+   37  python3 PracTest1.py
+   38  vim PracTest1.py
+   39  python3 PracTest1.py
+   40  vim PracTest1.py
+   41  python3 PracTest1.py
+   42  vim PracTest1.py
+   43  python3 PracTest1.py
+   44  vim PracTest1.py
+   45  python3 PracTest1.py
+   46  vim PracTest1.py
+   47  python3 PracTest1.py
+   48  vim PracTest1.py
+   49  python3 PracTest1.py
+   50  vim PracTest1.py
+   51  python3 PracTest1.py
+   52  vim PracTest1.py
+   53  python3 PracTest1.py
+   54  vim PracTest1.py
+   55  python3 PracTest1.py
+   56  vim PracTest1.py
+   57  python3 PracTest1.py
+   58  vim PracTest1.py
+   59  python3 PracTest1.py
+   60  vim PracTest1.py
+   61  python3 PracTest1.py
+   62  cd ../../
+   63  pwd
+   64  ls
+   65  cp Prac00/README PracTest1/
+   66  cd PracTest1/
+   67  ls -R
+   68  vim README 
+   69  history > hist.txt

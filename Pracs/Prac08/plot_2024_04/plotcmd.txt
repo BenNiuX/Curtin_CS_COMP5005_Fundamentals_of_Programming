@@ -1,0 +1,1 @@
+plot for [col=1:4] './data4.csv' using 0:col with lines

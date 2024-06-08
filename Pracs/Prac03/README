@@ -1,0 +1,33 @@
+## Synopsis
+Practical 3 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 3
+dosage4hr_1.py - modified for Prac03 Activity 7 part 1
+dosage4hr_2.py - modified for Prac03 Activity 7 part 2
+dosage4hr_3.py - modified for Prac03 Activity 7 part 3
+dosage4hr.py - (original)simulates the amount of aspirin in the system
+dosage.py - (original)simulates the amount of aspirin in the system
+growtharray.py - simulation of unconstrained growth using array
+growthplot.py - simulation of unconstrained growth using list
+growthsubplot.py - simulation of unconstrained growth to draw subplot
+numbersarray.py - read ten numbers give sum, min, max & mean using array
+numbersbar.py - read ten numbers give sum, min, max & mean and show on bar chart
+Prac_3.1.png - plot picture for Prac03 Activity 1
+Prac_3.2.png - plot picture for Prac03 Activity 2
+Prac_3.3.png - plot picture for Prac03 Activity 3
+Prac_3.4.png - plot picture for Prac03 Activity 4
+Prac_3.5.png - plot picture for Prac03 Activity 5
+Prac_3.7_1.png - plot picture for Prac03 Activity 7 part 1
+Prac_3.7_2.png - plot picture for Prac03 Activity 7 part 2
+Prac_3.7_3.png - plot picture for Prac03 Activity 7 part 3
+Prac_3.8.png - plot picture for Prac03 Activity 8
+rainbows.py - Draw a rainbow using pyplot
+repeatdosage.py - original repeatdosage.py
+skipdosage.py - original skipdosage.py
+
+## Dependencies
+none
+
+## Version information
+19/03/2024 - initial version of Practical 3 programs

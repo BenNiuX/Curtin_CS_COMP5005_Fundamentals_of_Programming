@@ -1,0 +1,23 @@
+## Synopsis
+Practical Test 3 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical Test 3
+creatures.py - class definitions for the creatures
+task1.py - program for task 1 in PracTest3
+testCat.py - program for task 2 in PracTest3
+task3.py - program for task 3 in PracTest3
+task4.py - program for task 4 in PracTest3
+task1.png - picture for task 1: plot puppies
+task2.png - picture for task 2: test 1 Cat
+task3.png - picture for task 3: simulate a map of yard
+task4.png - picture for task 4: smell map and yard map
+
+## Dependencies
+numpy
+matplotlib
+random
+time
+
+## Version information
+16/04/2024 - initial version of Practical Test 3 programs

@@ -1,0 +1,40 @@
+## Synopsis
+Assignment of Fundamentals of Programming COMP1005/5005, Sem 1 2024
+
+## Contents
+README - readme file for FOP Assignment, Sem 1 2024
+animals.py - define Animal class and subclasses
+common.py - define common classes
+config.py - maintain configuration
+container.py - maintain status and handle flow
+exceptions.py - define exception classes
+humans.py - define Human class and subclasses
+senses.py - define Sense class and subclasses
+snoo.py - base simulation for the FOP Assignment
+things.py - define Thing class and subclasses
+config_def.cfg - Configuration file for default
+config_basic.cfg - Configuration file for basic demo
+config_demo_eat.cfg - Configuration file for demo 1: dog and puppy eat food
+config_demo_play.cfg - Configuration file for demo 2: play with human and toy
+config_demo_time.cfg - Configuration file for demo 3: time passed
+testAnimals.py - test for animals.py
+testCommon.py - test for common.py
+testConfig.py - test for config.py
+testContainer.py - test for container.py
+testHumans.py - test for humans.py
+testSenses.py - test for senses.py
+testThings.py - test for things.py
+
+## Dependencies
+numpy
+matplotlib
+random
+time
+unittest
+configparser
+argparse
+os
+
+## Version information
+03/05/2024 - implement basic features of FOP Assignment
+16/04/2024 - initial version of FOP Assignment

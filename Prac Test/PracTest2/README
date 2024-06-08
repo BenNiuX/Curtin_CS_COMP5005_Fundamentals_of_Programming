@@ -1,0 +1,17 @@
+## Synopsis
+Practical Test 2 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical Test 2
+pup.py - assess and plot comparison of different types of dogs
+Task_0.png - Picture for Task 0: fix pup.py to draw a line plot
+Task_1.png - Picture for Task 1: Ratings for Pug
+Task_2.png - Picture for Task 2: Ratings for all dogs (line plot)
+Task_3.png - Picture for Task 3: Ratings for 4 dogs
+Task_4.png - Picture for Task 4: Ratings for all dogs (grouped bar)
+
+## Dependencies
+none
+
+## Version information
+26/03/2024 - initial version of Practical Test 2 programs

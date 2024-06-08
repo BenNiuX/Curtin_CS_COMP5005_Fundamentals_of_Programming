@@ -1,0 +1,82 @@
+    1  history
+    2  cd ../
+    3  cd Prac01
+    4  mkdir The
+    5  cd The
+    6  mkdir Holy
+    7  cd Holy/
+    8  mkdir Grail
+    9  cd ../../
+   10  mkdir Monty
+   11  mkdir Monty/Pythons
+   12  mkdir Monty/Pythons/Flying
+   13  mkdir Monty/Pythons/Flying/Circus
+   14  mkdir And
+   15  mkdir And/Now
+   16  mkdir And/Now/for
+   17  mkdir And/Now/for/Something
+   18  mkdir And/Now/for/Something/Completely
+   19  mkdir And/Now/for/Something/Completely/Different
+   20  ls -lR
+   21  ls -R
+   22  cd The/Holy/Grail/
+   23  vim bridge.py
+   24  python3 bridge.py 
+   25  vim bridge.py
+   26  python3 bridge.py 
+   27  cp bridge.py  bridge2.py 
+   28  vim bridge2.py 
+   29  python3 bridge2.py 
+   30  cd ../../
+   31  ls
+   32  cd ../
+   33  cd Monty/Pythons/Flying/Circus/
+   34  vim bruces.py
+   35  python3 bruces.py 
+   36  vim bruces.py
+   37  python3 bruces.py 
+   38  vim bruces.py
+   39  python3 bruces.py 
+   40  cd ../../
+   41  ls
+   42  cd ../../
+   43  cd Monty/Pythons/
+   44  vim which.py
+   45  python3 which.py
+   46  vim which.py
+   47  python3 which.py
+   48  vim num_convert.py
+   49  cd ../../
+   50  ls
+   51  vim num_convert.py
+   52  python3 num_convert.py 
+   53  vim num_convert.py
+   54  python3 num_convert.py 
+   55  vim num_for.py
+   56  python3 num_for.py 
+   57  vim num_for.py
+   58  python3 num_for.py 
+   59  vim num_while.py
+   60  python3 num_while.py 
+   61  cd And/Now/for/Something/Completely/Different/
+   62  vim growth.py
+   63  python3 growth.py 
+   64  ls -lR
+   65  cd ./../../../
+   66  cd ../../
+   67  cd ../
+   68  ls -lR
+   69  ls -R
+   70  cp ../Prac00/README  .
+   71  vim README
+   72  cat *
+   73  vim num_convert.py 
+   74  cat *
+   75  cat And/Now/for/Something/Completely/Different/growth.py gg
+   76  cat Monty/Pythons/which.py 
+   77  gedit Monty/Pythons/which.py 
+   78  vim Monty/Pythons/which.py 
+   79  vim Monty/Pythons/Flying/Circus/bruces.py 
+   80  cat The/Holy/Grail
+   81  cat The/Holy/Grail/*
+   82  history > hist.txt

@@ -1,0 +1,21 @@
+## Synopsis
+Practical 7 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 7
+animals.py - define Animal class and Cat/Dog/Bird/Shelter classes
+shelters.py - testing animals and shelter
+people.py - define People class and Address/Staff/Student/Postgrad/Undergrad
+            classes, also define DodInvalid exception
+testPeople.py - testing People and other related classes
+testPeopleCsv.py - testing People and other classes reading from CSV file and
+                 exception handled
+people.csv - define valid people information
+people_error.csv - define invalid people information
+errorLog.txt - record error info when loading data from CSV file
+
+## Dependencies
+none
+
+## Version information
+23/04/2024 - initial version of Practical 7 programs

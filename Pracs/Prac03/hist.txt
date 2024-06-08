@@ -1,0 +1,203 @@
+    1  ls -la ../Prac01/
+    2  ls -lr ../Prac01/
+    3  ls -lR ../Prac01/
+    4  cp ../Prac01/And/Now/for/Something/Completely/Different/growth.py  .
+    5  mv growth.py growthplot.py
+    6  vim growthplot.py 
+    7  python3 growthplot.py 
+    8  vim growthplot.py 
+    9  python3 growthplot.py 
+   10  vim growthplot.py 
+   11  python3 growthplot.py 
+   12  vim growthplot.py 
+   13  python3 growthplot.py 
+   14  vim growthplot.py 
+   15  python3 growthplot.py 
+   16  vim growthplot.py 
+   17  python3 growthplot.py 
+   18  vim growthplot.py 
+   19  python3 growthplot.py 
+   20  cp ../Prac01/num_for.py .
+   21  mv num_for.py numbersarray.py
+   22  vim numbersarray.py 
+   23  python numbersarray.py 
+   24  python3 numbersarray.py 
+   25  vim numbersarray.py 
+   26  python3 numbersarray.py 
+   27  vim numbersarray.py 
+   28  python3 numbersarray.py 
+   29  vim numbersarray.py 
+   30  python3 numbersarray.py 
+   31  vim numbersarray.py 
+   32  python3 numbersarray.py 
+   33  vim numbersarray.py 
+   34  python3 numbersarray.py 
+   35  cp growthplot.py growtharray.py 
+   36  vim growtharray.py 
+   37  python3 growtharray.py 
+   38  vim growtharray.py 
+   39  python3 growtharray.py 
+   40  vim growtharray.py 
+   41  python3 growtharray.py 
+   42  vim growtharray.py 
+   43  python3 growtharray.py 
+   44  vim growtharray.py 
+   45  python3 growtharray.py 
+   46  vim growtharray.py 
+   47  python3 growtharray.py 
+   48  python3 growthplot.py 
+   49  python3 growtharray.py 
+   50  vim growtharray.py 
+   51  python3 growtharray.py 
+   52  cp growtharray.py growthsubplot.py
+   53  vim growthsubplot.py 
+   54  python3 growthsubplot.py 
+   55  vim growthsubplot.py 
+   56  python3 growthsubplot.py 
+   57  vim growthsubplot.py 
+   58  python3 growthsubplot.py 
+   59  vim growthsubplot.py 
+   60  python3 growthsubplot.py 
+   61  vim growthsubplot.py 
+   62  python3 growthsubplot.py 
+   63  ls
+   64  mv 3.4.png Prac 3.4.png
+   65  mv 3.4.png "Prac_3.4.png"
+   66  ls
+   67  cp numbersarray.py numbersbar.py 
+   68  vim numbersbar.py 
+   69  python3 numbersbar.py 
+   70  vim numbersbar.py 
+   71  python3 numbersbar.py 
+   72  vim numbersbar.py 
+   73  python3 numbersbar.py 
+   74  33
+   75  python3 numbersbar.py 
+   76  vim numbersbar.py 
+   77  cp ~/Downloads/dosage.py .
+   78  cp ~/Downloads/dosage4hr.py .
+   79  python3 dosage.py 
+   80* python3 dosa
+   81* cp ~/Downloads/repeatdosage.py 
+   82  python repeatdosage.py 
+   83  python3 repeatdosage.py 
+   84  cp ~/Downloads/skipdosage.py .
+   85  python3 skipdosage.py 
+   86  ls -l
+   87  python3 growthplot.py 
+   88  python3 growtharray.py 
+   89* vim gro
+   90  python3 growtharray.py 
+   91  python3 numbersarray.py 
+   92  vim growtharray.py 
+   93  python3 growtharray.py 
+   94  ls
+   95  python3 dosage4hr.py 
+   96  vim dosage4hr.py 
+   97  python3 dosage4hr.py 
+   98  vim dosage4hr.py 
+   99  python3 dosage4hr.py 
+  100  vim dosage4hr.py 
+  101  python3 dosage4hr.py 
+  102  vim dosage4hr.py 
+  103  python3 dosage4hr.py 
+  104  vim dosage4hr.py 
+  105  python3 dosage4hr.py 
+  106  vim dosage4hr.py 
+  107  cp dosage4hr.py dosage4hr_1.py 
+  108  vim dosage4hr.py 
+  109  cp dosage4hr.py dosage4hr_1.py 
+  110  vim dosage4hr_1.py 
+  111  python3 dosage4hr.py 
+  112  vim dosage4hr.py 
+  113  python3 dosage4hr.py 
+  114  vim dosage4hr.py 
+  115  python3 dosage4hr.py 
+  116  vim dosage4hr.py 
+  117  python3 dosage4hr.py 
+  118  vim dosage4hr.py 
+  119  python3 dosage4hr.py 
+  120  vim dosage4hr.py 
+  121  python3 dosage4hr.py 
+  122  vim dosage4hr.py 
+  123  python3 dosage4hr.py 
+  124  vim dosage4hr.py 
+  125  cp dosage4hr.py dosage4hr_2.py 
+  126  python3 dosage4hr_2.py 
+  127  history > hist1.txt
+    1  ls
+    2  vim dosage4hr.py 
+    3  python dosage4hr.py 
+    4  python3 dosage4hr.py 
+    5  vim dosage4hr.py 
+    6  python3 dosage4hr.py 
+    7  vim dosage4hr.py 
+    8  python3 dosage4hr.py 
+    9  vim dosage4hr.py 
+   10  python3 dosage4hr.py 
+   11  vim dosage4hr.py 
+   12  python3 dosage4hr.py 
+   13  vim dosage4hr.py 
+   14  python3 dosage4hr.py 
+   15  vim dosage4hr.py 
+   16  python3 dosage4hr.py 
+   17  vim dosage4hr.py 
+   18  python3 dosage4hr.py 
+   19  vim dosage4hr.py 
+   20  python3 dosage4hr.py 
+   21  vim dosage4hr.py 
+   22  python3 dosage4hr.py 
+   23  vim dosage4hr.py 
+   24  python3 dosage4hr.py 
+   25  vim dosage4hr.py 
+   26  python3 dosage4hr.py 
+   27  vim dosage4hr.py 
+   28  python3 dosage4hr.py 
+   29  vim dosage4hr.py 
+   30  python3 dosage4hr.py 
+   31  vim dosage4hr.py 
+   32  python3 dosage4hr.py 
+   33  vim dosage4hr.py 
+   34  python3 dosage4hr.py 
+   35  vim dosage4hr.py 
+   36  python3 dosage4hr.py 
+   37  vim dosage4hr.py 
+   38  python3 dosage4hr.py 
+   39  vim dosage4hr.py 
+   40  python3 dosage4hr.py 
+   41  vim dosage4hr.py 
+   42  python3 dosage4hr.py 
+   43  vim dosage4hr.py 
+   44  python3 dosage4hr.py 
+   45  vim dosage4hr.py 
+   46  python3 dosage4hr.py 
+   47  vim dosage4hr.py 
+   48  python3 dosage4hr.py 
+   49  vim dosage4hr.py 
+   50  python3 dosage4hr.py 
+   51  vim dosage4hr_2.py 
+   52  vim dosage4hr.py 
+   53  python3 dosage4hr.py 
+   54  cp dosage4hr.py dosage4hr_3.py
+   55  rm dosage4hr.py
+   56  cp ~/Downloads/dosage4hr.py .
+   57  vim rainbows.py
+   58  python3 rainbows.py 
+   59  vim rainbows.py 
+   60  python3 rainbows.py 
+   61  vim rainbows.py 
+   62  python3 rainbows.py 
+   63  vim rainbows.py 
+   64  python3 rainbows.py 
+   65  vim rainbows.py 
+   66  python3 rainbows.py 
+   67  vim rainbows.py 
+   68  python3 rainbows.py 
+   69  vim rainbows.py 
+   70  python3 rainbows.py 
+   71  cp ../Prac01/README .
+   72  ls -l
+   73  chmod 644 rainbows.py 
+   74  ls
+   75  cat hist1.txt > hist.txt
+   76  history >> hist.txt
